@@ -1,3 +1,7 @@
+![Static Badge](https://img.shields.io/badge/Azure-blue?style=flat&logo=azure&logoColor=black)
+![Static Badge](https://img.shields.io/badge/javascript-orange?style=flat&logo=javascript&logoColor=black&cacheSeconds=!%5BStatic%20Badge%5D(https%3A%2F%2Fimg.shields.io%2Fbadge%2FAzure-blue%3Fstyle%3Dflat%26logo%3Dazure%26logoColor%3Dblack))
+
+
 # mslearn-bike-rental
 ## Criar um workspace do Azure Machine Learning
 
@@ -100,3 +104,8 @@ Para utilizar o Azure Machine Learning, você precisa provisionar um workspace d
 
 3. Envie o trabalho de treinamento. Ele começa automaticamente.
 4. Aguarde o término do trabalho. Pode levar um tempo — agora pode ser um bom momento para uma pausa para o café!
+
+## Referências
+[Explore Automated Machine Learning in Azure Machine Learning](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html)
+
+[Explore Azure AI services](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/02-content-safety.html)
